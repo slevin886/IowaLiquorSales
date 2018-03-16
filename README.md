@@ -1,5 +1,5 @@
 # Predicting Future Liquor Sales in Iowa  
-# *and Identifying Areas for Future Retail Growth*
+## *and Identifying Areas for Future Retail Growth*
 
 Accurately projecting future sales and revenue is essential to making effective business decisions. In Iowa, where liquor sales are tightly regulated by the state government, projecting future sales is also essential to balancing the budget. Using a publicly available dataset of more than 2 million sales reports (comprising the entirey of Iowa's liquor sales over 15 months), I projected sales statewide and at the county-level 9 months into the future. Additionally, I went county by county and identified several that warrant consideration for commercial expansion (i.e. opening a liquor store). 
 
